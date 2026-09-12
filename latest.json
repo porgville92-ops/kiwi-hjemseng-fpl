@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:59:52.271Z",
+  "generated_at": "2026-09-12T19:15:25.342Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -20,17 +20,17 @@
     "safe_to_treat_as_final": false
   },
   "gw_statistics": {
-    "average": 30.8,
-    "median": 32.5,
+    "average": 33.3,
+    "median": 34.5,
     "highest_score": {
       "manager": "William Lightfoot",
       "team": "Chili con Cairney",
-      "points": 49
+      "points": 52
     },
     "lowest_score": {
       "manager": "Atle Kirkevold",
       "team": "all stars 22",
-      "points": 6
+      "points": 9
     }
   },
   "standings": [
@@ -41,9 +41,9 @@
       "entry_id": 4150674,
       "team_name": "heiaheia",
       "manager_name": "Aleksander Strandmoe",
-      "gw_points": 48,
-      "total_points": 310,
-      "overall_rank": 1129,
+      "gw_points": 51,
+      "total_points": 313,
+      "overall_rank": 1029,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 1,
@@ -77,7 +77,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 115,
@@ -95,7 +95,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 426,
@@ -122,7 +122,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 368,
@@ -207,9 +207,9 @@
       "entry_id": 1051244,
       "team_name": "FK tittelforsvarer",
       "manager_name": "Tommy Simensen",
-      "gw_points": 38,
-      "total_points": 270,
-      "overall_rank": 182844,
+      "gw_points": 40,
+      "total_points": 272,
+      "overall_rank": 188970,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -252,7 +252,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 31,
@@ -261,7 +261,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 154,
@@ -373,9 +373,9 @@
       "entry_id": 7195532,
       "team_name": "John Obi Mikel",
       "manager_name": "Mikkel HansenDagsberg",
-      "gw_points": 27,
-      "total_points": 254,
-      "overall_rank": 643216,
+      "gw_points": 30,
+      "total_points": 257,
+      "overall_rank": 613467,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -409,7 +409,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 31,
@@ -418,7 +418,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 115,
@@ -445,7 +445,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 368,
@@ -539,9 +539,9 @@
       "entry_id": 3543962,
       "team_name": "Salah",
       "manager_name": "Salah Al Haddad",
-      "gw_points": 36,
-      "total_points": 253,
-      "overall_rank": 686909,
+      "gw_points": 39,
+      "total_points": 256,
+      "overall_rank": 655979,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -556,7 +556,7 @@
       },
       "vice_captain": {
         "name": "Rice",
-        "live_points": 0
+        "live_points": 1
       },
       "starting_xi": [
         {
@@ -575,7 +575,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 469,
@@ -593,7 +593,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 426,
@@ -629,7 +629,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 346,
@@ -705,9 +705,9 @@
       "entry_id": 1563124,
       "team_name": "Gb26",
       "manager_name": "Geir Bjørnsvik",
-      "gw_points": 35,
-      "total_points": 250,
-      "overall_rank": 837372,
+      "gw_points": 38,
+      "total_points": 253,
+      "overall_rank": 800171,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -741,7 +741,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 31,
@@ -750,7 +750,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 115,
@@ -795,7 +795,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 411,
@@ -871,9 +871,9 @@
       "entry_id": 4233296,
       "team_name": "Musti FC",
       "manager_name": "Musti R",
-      "gw_points": 35,
-      "total_points": 243,
-      "overall_rank": 1264258,
+      "gw_points": 37,
+      "total_points": 245,
+      "overall_rank": 1281127,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -916,7 +916,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 31,
@@ -925,7 +925,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 154,
@@ -1037,9 +1037,9 @@
       "entry_id": 5512258,
       "team_name": "Chili con Cairney",
       "manager_name": "William Lightfoot",
-      "gw_points": 49,
-      "total_points": 230,
-      "overall_rank": 2340941,
+      "gw_points": 52,
+      "total_points": 233,
+      "overall_rank": 2263715,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1064,7 +1064,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 8,
@@ -1073,7 +1073,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 115,
@@ -1109,7 +1109,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 268,
@@ -1203,9 +1203,9 @@
       "entry_id": 4003846,
       "team_name": "SNFC",
       "manager_name": "Said Noorullah",
-      "gw_points": 27,
-      "total_points": 216,
-      "overall_rank": 3818784,
+      "gw_points": 30,
+      "total_points": 219,
+      "overall_rank": 3727416,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1220,7 +1220,7 @@
       },
       "vice_captain": {
         "name": "Raya",
-        "live_points": 0
+        "live_points": 1
       },
       "starting_xi": [
         {
@@ -1230,7 +1230,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 229,
@@ -1248,7 +1248,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 504,
@@ -1293,7 +1293,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 368,
@@ -1369,9 +1369,9 @@
       "entry_id": 2523237,
       "team_name": "safi",
       "manager_name": "Zahidullah Safi",
-      "gw_points": 30,
-      "total_points": 211,
-      "overall_rank": 4479002,
+      "gw_points": 32,
+      "total_points": 213,
+      "overall_rank": 4496748,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1396,7 +1396,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 229,
@@ -1468,7 +1468,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 411,
@@ -1535,9 +1535,9 @@
       "entry_id": 725543,
       "team_name": "all stars 22",
       "manager_name": "Atle Kirkevold",
-      "gw_points": 6,
-      "total_points": 203,
-      "overall_rank": 5305403,
+      "gw_points": 9,
+      "total_points": 206,
+      "overall_rank": 5214643,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 1,
@@ -1562,7 +1562,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 469,
@@ -1580,7 +1580,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 471,
@@ -1598,7 +1598,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 155,
@@ -1701,15 +1701,15 @@
       "entry_id": 5556464,
       "team_name": "FC Mills Kaviar Mix",
       "manager_name": "Coung Dinh",
-      "gw_points": 23,
-      "total_points": 189,
-      "overall_rank": 6636160,
+      "gw_points": 26,
+      "total_points": 192,
+      "overall_rank": 6557290,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
       "transfer_cost": 0,
       "official_bench_points": 0,
-      "computed_bench_points": 1,
+      "computed_bench_points": 2,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1718,7 +1718,7 @@
       },
       "vice_captain": {
         "name": "Rice",
-        "live_points": 0
+        "live_points": 1
       },
       "starting_xi": [
         {
@@ -1737,7 +1737,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 31,
@@ -1746,7 +1746,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 469,
@@ -1773,7 +1773,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 428,
@@ -1847,7 +1847,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 204,
@@ -1867,9 +1867,9 @@
       "entry_id": 3652830,
       "team_name": "Team KiwiXL",
       "manager_name": "Morten Fevang",
-      "gw_points": 15,
-      "total_points": 140,
-      "overall_rank": 9291854,
+      "gw_points": 16,
+      "total_points": 141,
+      "overall_rank": 9318348,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 2,
@@ -1884,7 +1884,7 @@
       },
       "vice_captain": {
         "name": "Ødegaard",
-        "live_points": 0
+        "live_points": 1
       },
       "starting_xi": [
         {
@@ -1957,7 +1957,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 0
+          "live_points": 1
         },
         {
           "id": 14,
