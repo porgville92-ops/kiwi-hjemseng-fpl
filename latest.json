@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:00:17.073Z",
+  "generated_at": "2026-09-12T11:16:54.461Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -43,7 +43,7 @@
       "manager_name": "Aleksander Strandmoe",
       "gw_points": 70,
       "total_points": 262,
-      "overall_rank": 3477,
+      "overall_rank": 3471,
       "history_gw_points": 70,
       "synchronized": true,
       "transfers": 1,
@@ -707,7 +707,7 @@
       "manager_name": "Geir Bjørnsvik",
       "gw_points": 36,
       "total_points": 215,
-      "overall_rank": 945691,
+      "overall_rank": 945692,
       "history_gw_points": 36,
       "synchronized": true,
       "transfers": 1,
@@ -1205,7 +1205,7 @@
       "manager_name": "Said Noorullah",
       "gw_points": 75,
       "total_points": 189,
-      "overall_rank": 3652481,
+      "overall_rank": 3652200,
       "history_gw_points": 75,
       "synchronized": true,
       "transfers": 0,
