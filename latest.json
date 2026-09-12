@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:51:45.975Z",
+  "generated_at": "2026-09-12T18:05:07.678Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -20,8 +20,8 @@
     "safe_to_treat_as_final": false
   },
   "gw_statistics": {
-    "average": 27.5,
-    "median": 28.5,
+    "average": 30.6,
+    "median": 32.5,
     "highest_score": {
       "manager": "William Lightfoot",
       "team": "Chili con Cairney",
@@ -41,9 +41,9 @@
       "entry_id": 4150674,
       "team_name": "heiaheia",
       "manager_name": "Aleksander Strandmoe",
-      "gw_points": 42,
-      "total_points": 304,
-      "overall_rank": 1791,
+      "gw_points": 48,
+      "total_points": 310,
+      "overall_rank": 1098,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 1,
@@ -68,7 +68,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 7
         },
         {
           "id": 8,
@@ -209,7 +209,7 @@
       "manager_name": "Tommy Simensen",
       "gw_points": 38,
       "total_points": 270,
-      "overall_rank": 146615,
+      "overall_rank": 180580,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -375,7 +375,7 @@
       "manager_name": "Mikkel HansenDagsberg",
       "gw_points": 27,
       "total_points": 254,
-      "overall_rank": 548993,
+      "overall_rank": 636935,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -534,14 +534,180 @@
     },
     {
       "rank": 4,
+      "last_rank": 4,
+      "rank_change": 0,
+      "entry_id": 3543962,
+      "team_name": "Salah",
+      "manager_name": "Salah Al Haddad",
+      "gw_points": 36,
+      "total_points": 253,
+      "overall_rank": 680285,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 0,
+      "transfer_cost": 0,
+      "official_bench_points": 0,
+      "computed_bench_points": 1,
+      "active_chip": null,
+      "captain": {
+        "name": "B.Fernandes",
+        "live_points": 0,
+        "multiplier": 2
+      },
+      "vice_captain": {
+        "name": "Rice",
+        "live_points": 0
+      },
+      "starting_xi": [
+        {
+          "id": 496,
+          "name": "Kinsky",
+          "position": 1,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 7
+        },
+        {
+          "id": 4,
+          "name": "Gabriel",
+          "position": 2,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 469,
+          "name": "N.Williams",
+          "position": 3,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 2
+        },
+        {
+          "id": 8,
+          "name": "Calafiori",
+          "position": 4,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 426,
+          "name": "B.Fernandes",
+          "position": 5,
+          "multiplier": 2,
+          "captain": true,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 154,
+          "name": "Palmer",
+          "position": 6,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 5
+        },
+        {
+          "id": 480,
+          "name": "Gibbs-White",
+          "position": 7,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 8
+        },
+        {
+          "id": 13,
+          "name": "Rice",
+          "position": 8,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": true,
+          "live_points": 0
+        },
+        {
+          "id": 346,
+          "name": "Calvert-Lewin",
+          "position": 9,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 165,
+          "name": "João Pedro",
+          "position": 10,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 12
+        },
+        {
+          "id": 379,
+          "name": "Isak",
+          "position": 11,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 2
+        }
+      ],
+      "bench": [
+        {
+          "id": 171,
+          "name": "Dovin",
+          "position": 12,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 423,
+          "name": "Shaw",
+          "position": 13,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 212,
+          "name": "Hughes",
+          "position": 14,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 1
+        },
+        {
+          "id": 329,
+          "name": "Rodon",
+          "position": 15,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "last_rank": 5,
-      "rank_change": 1,
+      "rank_change": 0,
       "entry_id": 1563124,
       "team_name": "Gb26",
       "manager_name": "Geir Bjørnsvik",
       "gw_points": 35,
       "total_points": 250,
-      "overall_rank": 721610,
+      "overall_rank": 829511,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -699,172 +865,6 @@
       ]
     },
     {
-      "rank": 5,
-      "last_rank": 4,
-      "rank_change": -1,
-      "entry_id": 3543962,
-      "team_name": "Salah",
-      "manager_name": "Salah Al Haddad",
-      "gw_points": 30,
-      "total_points": 247,
-      "overall_rank": 863538,
-      "history_gw_points": 0,
-      "synchronized": false,
-      "transfers": 0,
-      "transfer_cost": 0,
-      "official_bench_points": 0,
-      "computed_bench_points": 1,
-      "active_chip": null,
-      "captain": {
-        "name": "B.Fernandes",
-        "live_points": 0,
-        "multiplier": 2
-      },
-      "vice_captain": {
-        "name": "Rice",
-        "live_points": 0
-      },
-      "starting_xi": [
-        {
-          "id": 496,
-          "name": "Kinsky",
-          "position": 1,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 1
-        },
-        {
-          "id": 4,
-          "name": "Gabriel",
-          "position": 2,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 469,
-          "name": "N.Williams",
-          "position": 3,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 8,
-          "name": "Calafiori",
-          "position": 4,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 426,
-          "name": "B.Fernandes",
-          "position": 5,
-          "multiplier": 2,
-          "captain": true,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 154,
-          "name": "Palmer",
-          "position": 6,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 5
-        },
-        {
-          "id": 480,
-          "name": "Gibbs-White",
-          "position": 7,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 8
-        },
-        {
-          "id": 13,
-          "name": "Rice",
-          "position": 8,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": true,
-          "live_points": 0
-        },
-        {
-          "id": 346,
-          "name": "Calvert-Lewin",
-          "position": 9,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 165,
-          "name": "João Pedro",
-          "position": 10,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 12
-        },
-        {
-          "id": 379,
-          "name": "Isak",
-          "position": 11,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        }
-      ],
-      "bench": [
-        {
-          "id": 171,
-          "name": "Dovin",
-          "position": 12,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 423,
-          "name": "Shaw",
-          "position": 13,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 212,
-          "name": "Hughes",
-          "position": 14,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 1
-        },
-        {
-          "id": 329,
-          "name": "Rodon",
-          "position": 15,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        }
-      ]
-    },
-    {
       "rank": 6,
       "last_rank": 6,
       "rank_change": 0,
@@ -873,7 +873,7 @@
       "manager_name": "Musti R",
       "gw_points": 35,
       "total_points": 243,
-      "overall_rank": 1111643,
+      "overall_rank": 1253703,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1039,7 +1039,7 @@
       "manager_name": "William Lightfoot",
       "gw_points": 49,
       "total_points": 230,
-      "overall_rank": 2113000,
+      "overall_rank": 2325907,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1203,9 +1203,9 @@
       "entry_id": 4003846,
       "team_name": "SNFC",
       "manager_name": "Said Noorullah",
-      "gw_points": 20,
-      "total_points": 209,
-      "overall_rank": 4345672,
+      "gw_points": 27,
+      "total_points": 216,
+      "overall_rank": 3802878,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1239,7 +1239,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 8
         },
         {
           "id": 8,
@@ -1369,9 +1369,9 @@
       "entry_id": 2523237,
       "team_name": "safi",
       "manager_name": "Zahidullah Safi",
-      "gw_points": 23,
-      "total_points": 204,
-      "overall_rank": 4994968,
+      "gw_points": 30,
+      "total_points": 211,
+      "overall_rank": 4463604,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1405,7 +1405,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 8
         },
         {
           "id": 390,
@@ -1537,13 +1537,13 @@
       "manager_name": "Atle Kirkevold",
       "gw_points": 6,
       "total_points": 203,
-      "overall_rank": 5073822,
+      "overall_rank": 5291350,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 1,
       "transfer_cost": 0,
       "official_bench_points": 0,
-      "computed_bench_points": 2,
+      "computed_bench_points": 7,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1663,7 +1663,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 6
         },
         {
           "id": 142,
@@ -1701,9 +1701,9 @@
       "entry_id": 5556464,
       "team_name": "FC Mills Kaviar Mix",
       "manager_name": "Coung Dinh",
-      "gw_points": 17,
-      "total_points": 183,
-      "overall_rank": 6947739,
+      "gw_points": 23,
+      "total_points": 189,
+      "overall_rank": 6625060,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1728,7 +1728,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 6
         },
         {
           "id": 4,
@@ -1818,7 +1818,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         }
       ],
       "bench": [
@@ -1867,9 +1867,9 @@
       "entry_id": 3652830,
       "team_name": "Team KiwiXL",
       "manager_name": "Morten Fevang",
-      "gw_points": 8,
-      "total_points": 133,
-      "overall_rank": 9419115,
+      "gw_points": 13,
+      "total_points": 138,
+      "overall_rank": 9341159,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 2,
@@ -1903,7 +1903,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 6
         },
         {
           "id": 201,
