@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:44:06.633Z",
+  "generated_at": "2026-09-13T15:55:07.325Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -49,7 +49,7 @@
       "transfers": 1,
       "transfer_cost": 0,
       "official_bench_points": 0,
-      "computed_bench_points": 3,
+      "computed_bench_points": 5,
       "active_chip": "3xc",
       "captain": {
         "name": "Rogers",
@@ -169,7 +169,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 3
         },
         {
           "id": 427,
@@ -1039,7 +1039,7 @@
       "manager_name": "William Lightfoot",
       "gw_points": 86,
       "total_points": 267,
-      "overall_rank": 1598899,
+      "overall_rank": 1598897,
       "history_gw_points": 72,
       "synchronized": false,
       "transfers": 0,
@@ -1205,7 +1205,7 @@
       "manager_name": "Said Noorullah",
       "gw_points": 58,
       "total_points": 247,
-      "overall_rank": 3232299,
+      "overall_rank": 3232296,
       "history_gw_points": 50,
       "synchronized": false,
       "transfers": 0,
@@ -1371,7 +1371,7 @@
       "manager_name": "Atle Kirkevold",
       "gw_points": 36,
       "total_points": 233,
-      "overall_rank": 4634303,
+      "overall_rank": 4634298,
       "history_gw_points": 32,
       "synchronized": false,
       "transfers": 1,
@@ -1450,7 +1450,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 3
         },
         {
           "id": 98,
@@ -1537,7 +1537,7 @@
       "manager_name": "Zahidullah Safi",
       "gw_points": 51,
       "total_points": 232,
-      "overall_rank": 4766921,
+      "overall_rank": 4766916,
       "history_gw_points": 47,
       "synchronized": false,
       "transfers": 0,
@@ -1703,7 +1703,7 @@
       "manager_name": "Coung Dinh",
       "gw_points": 47,
       "total_points": 213,
-      "overall_rank": 6430034,
+      "overall_rank": 6430027,
       "history_gw_points": 44,
       "synchronized": false,
       "transfers": 0,
@@ -1869,7 +1869,7 @@
       "manager_name": "Morten Fevang",
       "gw_points": 22,
       "total_points": 147,
-      "overall_rank": 9532371,
+      "overall_rank": 9532365,
       "history_gw_points": 19,
       "synchronized": false,
       "transfers": 2,
