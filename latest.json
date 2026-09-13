@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:42:50.911Z",
+  "generated_at": "2026-09-13T13:53:49.304Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -43,7 +43,7 @@
       "manager_name": "Aleksander Strandmoe",
       "gw_points": 59,
       "total_points": 321,
-      "overall_rank": 4995,
+      "overall_rank": 5681,
       "history_gw_points": 58,
       "synchronized": false,
       "transfers": 1,
@@ -209,7 +209,7 @@
       "manager_name": "Tommy Simensen",
       "gw_points": 59,
       "total_points": 291,
-      "overall_rank": 181855,
+      "overall_rank": 165858,
       "history_gw_points": 50,
       "synchronized": false,
       "transfers": 0,
@@ -1869,7 +1869,7 @@
       "manager_name": "Morten Fevang",
       "gw_points": 19,
       "total_points": 144,
-      "overall_rank": 9489045,
+      "overall_rank": 9489042,
       "history_gw_points": 19,
       "synchronized": true,
       "transfers": 2,
