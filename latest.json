@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:21:11.046Z",
+  "generated_at": "2026-09-15T13:37:06.966Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -9,15 +9,15 @@
     "id": 4,
     "name": "Gameweek 4",
     "deadline_time": "2026-09-12T12:30:00Z",
-    "finished": false,
-    "data_checked": false,
+    "finished": true,
+    "data_checked": true,
     "is_current": true
   },
   "processing_status": {
     "all_managers_synchronized": true,
     "synchronized_managers": 12,
     "total_managers": 12,
-    "safe_to_treat_as_final": false
+    "safe_to_treat_as_final": true
   },
   "gw_statistics": {
     "average": 76.5,
@@ -1869,7 +1869,7 @@
       "manager_name": "Morten Fevang",
       "gw_points": 43,
       "total_points": 168,
-      "overall_rank": 9441741,
+      "overall_rank": 9441740,
       "history_gw_points": 43,
       "synchronized": true,
       "transfers": 2,
