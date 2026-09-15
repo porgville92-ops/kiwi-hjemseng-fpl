@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:34:40.543Z",
+  "generated_at": "2026-09-15T09:51:04.681Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -1211,7 +1211,7 @@
       "transfers": 1,
       "transfer_cost": 0,
       "official_bench_points": 10,
-      "computed_bench_points": 10,
+      "computed_bench_points": 9,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1233,13 +1233,13 @@
           "live_points": 14
         },
         {
-          "id": 469,
-          "name": "N.Williams",
+          "id": 142,
+          "name": "James",
           "position": 2,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         },
         {
           "id": 4,
@@ -1251,13 +1251,13 @@
           "live_points": 9
         },
         {
-          "id": 471,
-          "name": "Milenković",
+          "id": 469,
+          "name": "N.Williams",
           "position": 4,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 2
         },
         {
           "id": 15,
@@ -1334,13 +1334,13 @@
           "live_points": 6
         },
         {
-          "id": 142,
-          "name": "James",
+          "id": 471,
+          "name": "Milenković",
           "position": 13,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 0
         },
         {
           "id": 418,
@@ -1543,7 +1543,7 @@
       "transfers": 0,
       "transfer_cost": 0,
       "official_bench_points": 7,
-      "computed_bench_points": 7,
+      "computed_bench_points": 5,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1592,18 +1592,27 @@
           "live_points": 2
         },
         {
-          "id": 40,
-          "name": "Rogers",
+          "id": 417,
+          "name": "Dalot",
           "position": 5,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 2
+        },
+        {
+          "id": 15,
+          "name": "Ødegaard",
+          "position": 6,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 3
         },
         {
           "id": 237,
           "name": "Ndiaye",
-          "position": 6,
+          "position": 7,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
@@ -1612,29 +1621,20 @@
         {
           "id": 399,
           "name": "Cherki",
-          "position": 7,
+          "position": 8,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
           "live_points": 1
         },
         {
-          "id": 454,
-          "name": "Elanga",
-          "position": 8,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 15,
-          "name": "Ødegaard",
+          "id": 40,
+          "name": "Rogers",
           "position": 9,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 8
         },
         {
           "id": 411,
@@ -1675,13 +1675,13 @@
           "live_points": 0
         },
         {
-          "id": 417,
-          "name": "Dalot",
+          "id": 454,
+          "name": "Elanga",
           "position": 14,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
           "id": 79,
@@ -1875,7 +1875,7 @@
       "transfers": 2,
       "transfer_cost": 0,
       "official_bench_points": 2,
-      "computed_bench_points": 2,
+      "computed_bench_points": 0,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1897,17 +1897,17 @@
           "live_points": 1
         },
         {
-          "id": 112,
-          "name": "Van Hecke",
+          "id": 201,
+          "name": "Muñoz",
           "position": 2,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 2
         },
         {
-          "id": 201,
-          "name": "Muñoz",
+          "id": 202,
+          "name": "Richards",
           "position": 3,
           "multiplier": 1,
           "captain": false,
@@ -1915,13 +1915,13 @@
           "live_points": 2
         },
         {
-          "id": 420,
-          "name": "Yoro",
+          "id": 112,
+          "name": "Van Hecke",
           "position": 4,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 8
         },
         {
           "id": 397,
@@ -2007,13 +2007,13 @@
           "live_points": 0
         },
         {
-          "id": 202,
-          "name": "Richards",
+          "id": 420,
+          "name": "Yoro",
           "position": 14,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
           "id": 223,
