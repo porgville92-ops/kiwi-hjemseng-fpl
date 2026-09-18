@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:05:21.434Z",
+  "generated_at": "2026-09-18T20:21:46.126Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -43,7 +43,7 @@
       "manager_name": "Aleksander Strandmoe",
       "gw_points": 3,
       "total_points": 336,
-      "overall_rank": 38252,
+      "overall_rank": 38053,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -53,7 +53,7 @@
       "active_chip": "freehit",
       "captain": {
         "name": "Palmer",
-        "live_points": 1,
+        "live_points": 2,
         "multiplier": 2
       },
       "vice_captain": {
@@ -149,7 +149,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 136,
@@ -158,7 +158,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         }
       ],
       "bench": [
@@ -209,7 +209,7 @@
       "manager_name": "Tommy Simensen",
       "gw_points": 2,
       "total_points": 331,
-      "overall_rank": 65296,
+      "overall_rank": 64979,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 2,
@@ -279,7 +279,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 368,
@@ -297,7 +297,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 411,
@@ -375,7 +375,7 @@
       "manager_name": "Mikkel HansenDagsberg",
       "gw_points": 2,
       "total_points": 316,
-      "overall_rank": 254703,
+      "overall_rank": 253779,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -385,7 +385,7 @@
       "active_chip": null,
       "captain": {
         "name": "Palmer",
-        "live_points": 1,
+        "live_points": 2,
         "multiplier": 2
       },
       "vice_captain": {
@@ -436,7 +436,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 15,
@@ -541,7 +541,7 @@
       "manager_name": "Musti R",
       "gw_points": 1,
       "total_points": 294,
-      "overall_rank": 1050018,
+      "overall_rank": 1048045,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -629,7 +629,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 68,
@@ -707,7 +707,7 @@
       "manager_name": "Geir Bjørnsvik",
       "gw_points": 0,
       "total_points": 293,
-      "overall_rank": 1114225,
+      "overall_rank": 1112149,
       "history_gw_points": 0,
       "synchronized": true,
       "transfers": 2,
@@ -873,7 +873,7 @@
       "manager_name": "Salah Al Haddad",
       "gw_points": 1,
       "total_points": 289,
-      "overall_rank": 1332148,
+      "overall_rank": 1329942,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -943,7 +943,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 480,
@@ -1039,7 +1039,7 @@
       "manager_name": "William Lightfoot",
       "gw_points": 1,
       "total_points": 285,
-      "overall_rank": 1600218,
+      "overall_rank": 1598166,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1100,7 +1100,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 557,
@@ -1205,13 +1205,13 @@
       "manager_name": "Atle Kirkevold",
       "gw_points": 0,
       "total_points": 267,
-      "overall_rank": 3123762,
+      "overall_rank": 3122229,
       "history_gw_points": 0,
       "synchronized": true,
       "transfers": 1,
       "transfer_cost": 0,
       "official_bench_points": 0,
-      "computed_bench_points": 1,
+      "computed_bench_points": 3,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1358,7 +1358,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 3
         }
       ]
     },
@@ -1371,7 +1371,7 @@
       "manager_name": "Said Noorullah",
       "gw_points": 0,
       "total_points": 263,
-      "overall_rank": 3447268,
+      "overall_rank": 3446001,
       "history_gw_points": 0,
       "synchronized": true,
       "transfers": 0,
@@ -1537,7 +1537,7 @@
       "manager_name": "Zahidullah Safi",
       "gw_points": 1,
       "total_points": 257,
-      "overall_rank": 4114047,
+      "overall_rank": 4112914,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 2,
@@ -1598,7 +1598,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 368,
@@ -1703,7 +1703,7 @@
       "manager_name": "Coung Dinh",
       "gw_points": 1,
       "total_points": 231,
-      "overall_rank": 6458563,
+      "overall_rank": 6457889,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 2,
@@ -1764,7 +1764,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
           "id": 13,
@@ -1869,7 +1869,7 @@
       "manager_name": "Morten Fevang",
       "gw_points": 0,
       "total_points": 168,
-      "overall_rank": 9419891,
+      "overall_rank": 9419700,
       "history_gw_points": 0,
       "synchronized": true,
       "transfers": 0,
