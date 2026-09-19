@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:59:54.024Z",
+  "generated_at": "2026-09-19T12:22:48.758Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -20,7 +20,7 @@
     "safe_to_treat_as_final": false
   },
   "gw_statistics": {
-    "average": 2.5,
+    "average": 2.4,
     "median": 2,
     "highest_score": {
       "manager": "Aleksander Strandmoe",
@@ -43,7 +43,7 @@
       "manager_name": "Aleksander Strandmoe",
       "gw_points": 6,
       "total_points": 339,
-      "overall_rank": 39359,
+      "overall_rank": 39363,
       "history_gw_points": 6,
       "synchronized": true,
       "transfers": 0,
@@ -209,7 +209,7 @@
       "manager_name": "Tommy Simensen",
       "gw_points": 4,
       "total_points": 333,
-      "overall_rank": 73584,
+      "overall_rank": 73593,
       "history_gw_points": 4,
       "synchronized": true,
       "transfers": 2,
@@ -375,7 +375,7 @@
       "manager_name": "Mikkel HansenDagsberg",
       "gw_points": 4,
       "total_points": 318,
-      "overall_rank": 273488,
+      "overall_rank": 273536,
       "history_gw_points": 4,
       "synchronized": true,
       "transfers": 0,
@@ -541,13 +541,13 @@
       "manager_name": "Musti R",
       "gw_points": 2,
       "total_points": 295,
-      "overall_rank": 1136342,
+      "overall_rank": 1135718,
       "history_gw_points": 2,
       "synchronized": true,
       "transfers": 0,
       "transfer_cost": 0,
       "official_bench_points": 0,
-      "computed_bench_points": 2,
+      "computed_bench_points": 1,
       "active_chip": "wildcard",
       "captain": {
         "name": "Haaland",
@@ -667,7 +667,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         },
         {
           "id": 115,
@@ -707,13 +707,13 @@
       "manager_name": "Geir Bjørnsvik",
       "gw_points": 0,
       "total_points": 293,
-      "overall_rank": 1276471,
+      "overall_rank": 1261013,
       "history_gw_points": 0,
       "synchronized": true,
       "transfers": 2,
       "transfer_cost": 0,
       "official_bench_points": 0,
-      "computed_bench_points": 2,
+      "computed_bench_points": 1,
       "active_chip": null,
       "captain": {
         "name": "B.Fernandes",
@@ -833,7 +833,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         },
         {
           "id": 173,
@@ -871,9 +871,9 @@
       "entry_id": 3543962,
       "team_name": "Salah",
       "manager_name": "Salah Al Haddad",
-      "gw_points": 4,
-      "total_points": 292,
-      "overall_rank": 1365483,
+      "gw_points": 3,
+      "total_points": 291,
+      "overall_rank": 1364680,
       "history_gw_points": 2,
       "synchronized": false,
       "transfers": 0,
@@ -898,7 +898,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         },
         {
           "id": 4,
@@ -1039,7 +1039,7 @@
       "manager_name": "William Lightfoot",
       "gw_points": 2,
       "total_points": 286,
-      "overall_rank": 1706739,
+      "overall_rank": 1706936,
       "history_gw_points": 2,
       "synchronized": true,
       "transfers": 0,
@@ -1205,7 +1205,7 @@
       "manager_name": "Atle Kirkevold",
       "gw_points": 0,
       "total_points": 267,
-      "overall_rank": 3355931,
+      "overall_rank": 3353699,
       "history_gw_points": 0,
       "synchronized": true,
       "transfers": 1,
@@ -1371,7 +1371,7 @@
       "manager_name": "Said Noorullah",
       "gw_points": 2,
       "total_points": 265,
-      "overall_rank": 3493001,
+      "overall_rank": 3490828,
       "history_gw_points": 0,
       "synchronized": false,
       "transfers": 0,
@@ -1537,7 +1537,7 @@
       "manager_name": "Zahidullah Safi",
       "gw_points": 2,
       "total_points": 258,
-      "overall_rank": 4259392,
+      "overall_rank": 4256841,
       "history_gw_points": 2,
       "synchronized": true,
       "transfers": 2,
@@ -1703,7 +1703,7 @@
       "manager_name": "Coung Dinh",
       "gw_points": 2,
       "total_points": 232,
-      "overall_rank": 6590567,
+      "overall_rank": 6588007,
       "history_gw_points": 2,
       "synchronized": true,
       "transfers": 2,
@@ -1869,7 +1869,7 @@
       "manager_name": "Morten Fevang",
       "gw_points": 2,
       "total_points": 170,
-      "overall_rank": 9441542,
+      "overall_rank": 9441901,
       "history_gw_points": 1,
       "synchronized": false,
       "transfers": 0,
