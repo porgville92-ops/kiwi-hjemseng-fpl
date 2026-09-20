@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:39:04.396Z",
+  "generated_at": "2026-09-20T14:50:09.901Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -20,17 +20,17 @@
     "safe_to_treat_as_final": false
   },
   "gw_statistics": {
-    "average": 33.6,
-    "median": 33.5,
+    "average": 33.5,
+    "median": 34,
     "highest_score": {
       "manager": "Morten Fevang",
       "team": "Team KiwiXL",
       "points": 48
     },
     "lowest_score": {
-      "manager": "Salah Al Haddad",
-      "team": "Salah",
-      "points": 21
+      "manager": "William Lightfoot",
+      "team": "Chili con Cairney",
+      "points": 20
     }
   },
   "standings": [
@@ -43,7 +43,7 @@
       "manager_name": "Aleksander Strandmoe",
       "gw_points": 41,
       "total_points": 374,
-      "overall_rank": 36517,
+      "overall_rank": 36560,
       "history_gw_points": 41,
       "synchronized": true,
       "transfers": 0,
@@ -209,7 +209,7 @@
       "manager_name": "Tommy Simensen",
       "gw_points": 33,
       "total_points": 362,
-      "overall_rank": 117219,
+      "overall_rank": 117442,
       "history_gw_points": 28,
       "synchronized": false,
       "transfers": 2,
@@ -219,7 +219,7 @@
       "active_chip": null,
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 2
       },
       "vice_captain": {
@@ -306,7 +306,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 165,
@@ -375,7 +375,7 @@
       "manager_name": "Mikkel HansenDagsberg",
       "gw_points": 46,
       "total_points": 360,
-      "overall_rank": 137757,
+      "overall_rank": 137848,
       "history_gw_points": 34,
       "synchronized": false,
       "transfers": 0,
@@ -390,7 +390,7 @@
       },
       "vice_captain": {
         "name": "Haaland",
-        "live_points": 2
+        "live_points": 6
       },
       "starting_xi": [
         {
@@ -472,7 +472,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 165,
@@ -541,7 +541,7 @@
       "manager_name": "Musti R",
       "gw_points": 34,
       "total_points": 327,
-      "overall_rank": 1203047,
+      "overall_rank": 1202968,
       "history_gw_points": 27,
       "synchronized": false,
       "transfers": 0,
@@ -551,7 +551,7 @@
       "active_chip": "wildcard",
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 2
       },
       "vice_captain": {
@@ -602,7 +602,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 4
         },
         {
           "id": 480,
@@ -647,7 +647,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 464,
@@ -707,7 +707,7 @@
       "manager_name": "Geir Bjørnsvik",
       "gw_points": 32,
       "total_points": 325,
-      "overall_rank": 1332434,
+      "overall_rank": 1332274,
       "history_gw_points": 11,
       "synchronized": false,
       "transfers": 2,
@@ -873,7 +873,7 @@
       "manager_name": "Salah Al Haddad",
       "gw_points": 21,
       "total_points": 309,
-      "overall_rank": 2474638,
+      "overall_rank": 2474151,
       "history_gw_points": 11,
       "synchronized": false,
       "transfers": 0,
@@ -1037,9 +1037,9 @@
       "entry_id": 5512258,
       "team_name": "Chili con Cairney",
       "manager_name": "William Lightfoot",
-      "gw_points": 21,
-      "total_points": 305,
-      "overall_rank": 2824454,
+      "gw_points": 20,
+      "total_points": 304,
+      "overall_rank": 2911086,
       "history_gw_points": 8,
       "synchronized": false,
       "transfers": 0,
@@ -1049,7 +1049,7 @@
       "active_chip": null,
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 2
       },
       "vice_captain": {
@@ -1091,7 +1091,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 9
+          "live_points": 8
         },
         {
           "id": 40,
@@ -1145,7 +1145,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 165,
@@ -1203,9 +1203,9 @@
       "entry_id": 725543,
       "team_name": "all stars 22",
       "manager_name": "Atle Kirkevold",
-      "gw_points": 35,
-      "total_points": 302,
-      "overall_rank": 3131455,
+      "gw_points": 34,
+      "total_points": 301,
+      "overall_rank": 3220000,
       "history_gw_points": 19,
       "synchronized": false,
       "transfers": 1,
@@ -1215,7 +1215,7 @@
       "active_chip": null,
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 2
       },
       "vice_captain": {
@@ -1302,7 +1302,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 464,
@@ -1369,9 +1369,9 @@
       "entry_id": 4003846,
       "team_name": "SNFC",
       "manager_name": "Said Noorullah",
-      "gw_points": 33,
-      "total_points": 296,
-      "overall_rank": 3632628,
+      "gw_points": 34,
+      "total_points": 297,
+      "overall_rank": 3538892,
       "history_gw_points": 9,
       "synchronized": false,
       "transfers": 0,
@@ -1381,7 +1381,7 @@
       "active_chip": "3xc",
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 3
       },
       "vice_captain": {
@@ -1486,7 +1486,7 @@
           "multiplier": 3,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         }
       ],
       "bench": [
@@ -1537,7 +1537,7 @@
       "manager_name": "Zahidullah Safi",
       "gw_points": 36,
       "total_points": 292,
-      "overall_rank": 4096458,
+      "overall_rank": 4094482,
       "history_gw_points": 21,
       "synchronized": false,
       "transfers": 2,
@@ -1547,7 +1547,7 @@
       "active_chip": null,
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 2
       },
       "vice_captain": {
@@ -1643,7 +1643,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 165,
@@ -1703,7 +1703,7 @@
       "manager_name": "Coung Dinh",
       "gw_points": 23,
       "total_points": 253,
-      "overall_rank": 7332737,
+      "overall_rank": 7331971,
       "history_gw_points": 15,
       "synchronized": false,
       "transfers": 2,
@@ -1713,7 +1713,7 @@
       "active_chip": null,
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 2
       },
       "vice_captain": {
@@ -1809,7 +1809,7 @@
           "multiplier": 2,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 222,
@@ -1869,17 +1869,17 @@
       "manager_name": "Morten Fevang",
       "gw_points": 48,
       "total_points": 216,
-      "overall_rank": 9026418,
+      "overall_rank": 9027721,
       "history_gw_points": 15,
       "synchronized": false,
       "transfers": 0,
       "transfer_cost": 0,
       "official_bench_points": 2,
-      "computed_bench_points": 9,
+      "computed_bench_points": 11,
       "active_chip": "3xc",
       "captain": {
         "name": "Haaland",
-        "live_points": 2,
+        "live_points": 6,
         "multiplier": 3
       },
       "vice_captain": {
@@ -1975,7 +1975,7 @@
           "multiplier": 3,
           "captain": true,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 379,
@@ -2013,7 +2013,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 7
+          "live_points": 9
         },
         {
           "id": 223,
