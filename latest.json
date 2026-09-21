@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:52:17.014Z",
+  "generated_at": "2026-09-21T14:05:41.933Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -9,15 +9,15 @@
     "id": 5,
     "name": "Gameweek 5",
     "deadline_time": "2026-09-18T17:30:00Z",
-    "finished": false,
-    "data_checked": false,
+    "finished": true,
+    "data_checked": true,
     "is_current": true
   },
   "processing_status": {
     "all_managers_synchronized": true,
     "synchronized_managers": 12,
     "total_managers": 12,
-    "safe_to_treat_as_final": false
+    "safe_to_treat_as_final": true
   },
   "gw_statistics": {
     "average": 47.2,
