@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:44:14.644Z",
+  "generated_at": "2026-10-25T19:18:09.674Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -20,7 +20,7 @@
     "safe_to_treat_as_final": false
   },
   "gw_statistics": {
-    "average": 44.5,
+    "average": 45.3,
     "median": 40,
     "highest_score": {
       "manager": "Morten Fevang",
@@ -41,9 +41,9 @@
       "entry_id": 1051244,
       "team_name": "FK tittelforsvarer",
       "manager_name": "Tommy Simensen",
-      "gw_points": 37,
-      "total_points": 584,
-      "overall_rank": 20409,
+      "gw_points": 38,
+      "total_points": 585,
+      "overall_rank": 23834,
       "history_gw_points": 34,
       "synchronized": false,
       "transfers": 3,
@@ -158,7 +158,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         }
       ],
       "bench": [
@@ -209,7 +209,7 @@
       "manager_name": "Marius Kamfjord",
       "gw_points": 40,
       "total_points": 577,
-      "overall_rank": 38002,
+      "overall_rank": 47250,
       "history_gw_points": 35,
       "synchronized": false,
       "transfers": 0,
@@ -375,7 +375,7 @@
       "manager_name": "Mikkel HansenDagsberg",
       "gw_points": 36,
       "total_points": 559,
-      "overall_rank": 141467,
+      "overall_rank": 164937,
       "history_gw_points": 25,
       "synchronized": false,
       "transfers": 0,
@@ -541,7 +541,7 @@
       "manager_name": "Aleksander Strandmoe",
       "gw_points": 40,
       "total_points": 517,
-      "overall_rank": 1151189,
+      "overall_rank": 1225859,
       "history_gw_points": 30,
       "synchronized": false,
       "transfers": 2,
@@ -707,7 +707,7 @@
       "manager_name": "Musti R",
       "gw_points": 37,
       "total_points": 516,
-      "overall_rank": 1183657,
+      "overall_rank": 1258932,
       "history_gw_points": 27,
       "synchronized": false,
       "transfers": 2,
@@ -871,9 +871,9 @@
       "entry_id": 4003846,
       "team_name": "SNFC",
       "manager_name": "Said Noorullah",
-      "gw_points": 37,
-      "total_points": 501,
-      "overall_rank": 1877107,
+      "gw_points": 46,
+      "total_points": 510,
+      "overall_rank": 1514928,
       "history_gw_points": 22,
       "synchronized": false,
       "transfers": 0,
@@ -888,7 +888,7 @@
       },
       "vice_captain": {
         "name": "Trafford",
-        "live_points": 1
+        "live_points": 10
       },
       "starting_xi": [
         {
@@ -898,7 +898,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 1
+          "live_points": 10
         },
         {
           "id": 115,
@@ -1039,7 +1039,7 @@
       "manager_name": "Geir Bjørnsvik",
       "gw_points": 30,
       "total_points": 501,
-      "overall_rank": 1884943,
+      "overall_rank": 1971138,
       "history_gw_points": 21,
       "synchronized": false,
       "transfers": 1,
@@ -1205,7 +1205,7 @@
       "manager_name": "William Lightfoot",
       "gw_points": 45,
       "total_points": 495,
-      "overall_rank": 2204009,
+      "overall_rank": 2294727,
       "history_gw_points": 33,
       "synchronized": false,
       "transfers": 1,
@@ -1371,7 +1371,7 @@
       "manager_name": "Salah Al Haddad",
       "gw_points": 50,
       "total_points": 493,
-      "overall_rank": 2326785,
+      "overall_rank": 2418622,
       "history_gw_points": 48,
       "synchronized": false,
       "transfers": 0,
@@ -1535,9 +1535,9 @@
       "entry_id": 725543,
       "team_name": "all stars 22",
       "manager_name": "Atle Kirkevold",
-      "gw_points": 62,
-      "total_points": 476,
-      "overall_rank": 3367009,
+      "gw_points": 63,
+      "total_points": 477,
+      "overall_rank": 3400292,
       "history_gw_points": 45,
       "synchronized": false,
       "transfers": 0,
@@ -1652,7 +1652,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         }
       ],
       "bench": [
@@ -1703,7 +1703,7 @@
       "manager_name": "Zahidullah Safi",
       "gw_points": 33,
       "total_points": 463,
-      "overall_rank": 4228783,
+      "overall_rank": 4325088,
       "history_gw_points": 32,
       "synchronized": false,
       "transfers": 0,
@@ -1869,13 +1869,13 @@
       "manager_name": "Coung Dinh",
       "gw_points": 62,
       "total_points": 450,
-      "overall_rank": 5025296,
+      "overall_rank": 5117673,
       "history_gw_points": 60,
       "synchronized": false,
       "transfers": 0,
       "transfer_cost": 0,
       "official_bench_points": 3,
-      "computed_bench_points": 5,
+      "computed_bench_points": 7,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -2013,7 +2013,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 3
         },
         {
           "id": 204,
@@ -2035,7 +2035,7 @@
       "manager_name": "Morten Fevang",
       "gw_points": 69,
       "total_points": 391,
-      "overall_rank": 8111076,
+      "overall_rank": 8159911,
       "history_gw_points": 39,
       "synchronized": false,
       "transfers": 0,
