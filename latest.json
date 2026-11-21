@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-21T09:49:57.618Z",
+  "generated_at": "2026-11-21T16:59:25.160Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
     "number_of_managers": 13
   },
   "gameweek": {
-    "id": 10,
-    "name": "Gameweek 10",
-    "deadline_time": "2026-11-06T18:30:00Z",
-    "finished": true,
-    "data_checked": true,
+    "id": 11,
+    "name": "Gameweek 11",
+    "deadline_time": "2026-11-21T11:00:00Z",
+    "finished": false,
+    "data_checked": false,
     "is_current": true
   },
   "processing_status": {
-    "all_managers_synchronized": true,
-    "synchronized_managers": 13,
+    "all_managers_synchronized": false,
+    "synchronized_managers": 0,
     "total_managers": 13,
-    "safe_to_treat_as_final": true
+    "safe_to_treat_as_final": false
   },
   "gw_statistics": {
-    "average": 57.6,
-    "median": 58,
+    "average": 23.6,
+    "median": 23,
     "highest_score": {
-      "manager": "Geir Bjørnsvik",
-      "team": "Gb26",
-      "points": 71
+      "manager": "Zahidullah Safi",
+      "team": "safi",
+      "points": 40
     },
     "lowest_score": {
-      "manager": "Morten Fevang",
-      "team": "Team KiwiXL",
-      "points": 38
+      "manager": "Musti R",
+      "team": "Musti FC",
+      "points": 11
     }
   },
   "standings": [
@@ -41,15 +41,15 @@
       "entry_id": 1051244,
       "team_name": "FK tittelforsvarer",
       "manager_name": "Tommy Simensen",
-      "gw_points": 58,
-      "total_points": 705,
-      "overall_rank": 68306,
-      "history_gw_points": 58,
-      "synchronized": true,
-      "transfers": 0,
+      "gw_points": 27,
+      "total_points": 732,
+      "overall_rank": 69520,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 2,
       "transfer_cost": 0,
-      "official_bench_points": 8,
-      "computed_bench_points": 8,
+      "official_bench_points": 0,
+      "computed_bench_points": 9,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -58,7 +58,7 @@
       },
       "vice_captain": {
         "name": "Rogers",
-        "live_points": 2
+        "live_points": 5
       },
       "starting_xi": [
         {
@@ -68,29 +68,29 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 31,
-          "name": "Konsa",
-          "position": 2,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 8
+          "live_points": 0
         },
         {
           "id": 115,
           "name": "De Cuyper",
-          "position": 3,
+          "position": 2,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 8,
           "name": "Calafiori",
+          "position": 3,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 112,
+          "name": "Van Hecke",
           "position": 4,
           "multiplier": 1,
           "captain": false,
@@ -113,7 +113,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 2
+          "live_points": 5
         },
         {
           "id": 124,
@@ -122,25 +122,25 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
-        },
-        {
-          "id": 480,
-          "name": "Gibbs-White",
-          "position": 8,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 5
+          "live_points": 0
         },
         {
           "id": 94,
           "name": "Schade",
+          "position": 8,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 183,
+          "name": "Rudoni",
           "position": 9,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 10
         },
         {
           "id": 411,
@@ -158,7 +158,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 0
         }
       ],
       "bench": [
@@ -172,13 +172,13 @@
           "live_points": 0
         },
         {
-          "id": 449,
-          "name": "Hall",
+          "id": 31,
+          "name": "Konsa",
           "position": 13,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 4
+          "live_points": 0
         },
         {
           "id": 346,
@@ -187,7 +187,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 9
         },
         {
           "id": 277,
@@ -196,7 +196,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         }
       ]
     },
@@ -207,23 +207,23 @@
       "entry_id": 412435,
       "team_name": "Bentekkers",
       "manager_name": "Marius Kamfjord",
-      "gw_points": 54,
-      "total_points": 682,
-      "overall_rank": 248925,
-      "history_gw_points": 54,
-      "synchronized": true,
+      "gw_points": 22,
+      "total_points": 704,
+      "overall_rank": 297507,
+      "history_gw_points": 0,
+      "synchronized": false,
       "transfers": 0,
       "transfer_cost": 0,
-      "official_bench_points": 1,
+      "official_bench_points": 0,
       "computed_bench_points": 1,
-      "active_chip": null,
+      "active_chip": "wildcard",
       "captain": {
-        "name": "Haaland",
+        "name": "Palmer",
         "live_points": 2,
         "multiplier": 2
       },
       "vice_captain": {
-        "name": "Palmer",
+        "name": "Haaland",
         "live_points": 2
       },
       "starting_xi": [
@@ -234,70 +234,70 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 88,
-          "name": "Kayode",
-          "position": 2,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 1
+          "live_points": 0
         },
         {
           "id": 115,
           "name": "De Cuyper",
+          "position": 2,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 4,
+          "name": "Gabriel",
           "position": 3,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
-          "id": 449,
-          "name": "Hall",
+          "id": 8,
+          "name": "Calafiori",
           "position": 4,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 4
+          "live_points": 0
         },
         {
-          "id": 53,
-          "name": "Manzambi",
+          "id": 68,
+          "name": "Tavernier",
           "position": 5,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 8
         },
         {
-          "id": 399,
-          "name": "Cherki",
+          "id": 40,
+          "name": "Rogers",
           "position": 6,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 9
+          "live_points": 5
         },
         {
           "id": 154,
           "name": "Palmer",
           "position": 7,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": true,
+          "multiplier": 2,
+          "captain": true,
+          "vice_captain": false,
           "live_points": 2
         },
         {
-          "id": 40,
-          "name": "Rogers",
+          "id": 53,
+          "name": "Manzambi",
           "position": 8,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         },
         {
           "id": 124,
@@ -306,25 +306,25 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
+          "live_points": 0
         },
         {
           "id": 411,
           "name": "Haaland",
           "position": 10,
-          "multiplier": 2,
-          "captain": true,
-          "vice_captain": false,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": true,
           "live_points": 2
         },
         {
-          "id": 379,
-          "name": "Isak",
+          "id": 166,
+          "name": "N.Jackson",
           "position": 11,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 2
         }
       ],
       "bench": [
@@ -338,17 +338,17 @@
           "live_points": 0
         },
         {
-          "id": 10,
-          "name": "White",
+          "id": 175,
+          "name": "van Ewijk",
           "position": 13,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 1
         },
         {
-          "id": 107,
-          "name": "Furo",
+          "id": 259,
+          "name": "Diop",
           "position": 14,
           "multiplier": 0,
           "captain": false,
@@ -356,13 +356,13 @@
           "live_points": 0
         },
         {
-          "id": 259,
-          "name": "Diop",
+          "id": 272,
+          "name": "Kusi-Asare",
           "position": 15,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 0
         }
       ]
     },
@@ -373,15 +373,15 @@
       "entry_id": 7195532,
       "team_name": "John Obi Mikel",
       "manager_name": "Mikkel HansenDagsberg",
-      "gw_points": 57,
-      "total_points": 677,
-      "overall_rank": 308036,
-      "history_gw_points": 57,
-      "synchronized": true,
+      "gw_points": 24,
+      "total_points": 701,
+      "overall_rank": 336103,
+      "history_gw_points": 0,
+      "synchronized": false,
       "transfers": 1,
       "transfer_cost": 0,
-      "official_bench_points": 5,
-      "computed_bench_points": 5,
+      "official_bench_points": 0,
+      "computed_bench_points": 3,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -390,7 +390,7 @@
       },
       "vice_captain": {
         "name": "Rogers",
-        "live_points": 2
+        "live_points": 5
       },
       "starting_xi": [
         {
@@ -400,7 +400,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 0
         },
         {
           "id": 8,
@@ -409,7 +409,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 31,
@@ -418,7 +418,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 0
         },
         {
           "id": 229,
@@ -427,7 +427,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
           "id": 40,
@@ -436,16 +436,16 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 2
+          "live_points": 5
         },
         {
-          "id": 400,
-          "name": "Doku",
+          "id": 399,
+          "name": "Cherki",
           "position": 6,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         },
         {
           "id": 68,
@@ -454,7 +454,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 8
         },
         {
           "id": 124,
@@ -463,7 +463,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
+          "live_points": 0
         },
         {
           "id": 411,
@@ -481,7 +481,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 9
+          "live_points": 6
         },
         {
           "id": 379,
@@ -490,7 +490,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 0
         }
       ],
       "bench": [
@@ -510,7 +510,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 3
         },
         {
           "id": 432,
@@ -519,7 +519,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 4
+          "live_points": 0
         },
         {
           "id": 418,
@@ -539,24 +539,24 @@
       "entry_id": 4150674,
       "team_name": "heiaheia",
       "manager_name": "Aleksander Strandmoe",
-      "gw_points": 64,
-      "total_points": 658,
-      "overall_rank": 670422,
-      "history_gw_points": 64,
-      "synchronized": true,
+      "gw_points": 20,
+      "total_points": 678,
+      "overall_rank": 790220,
+      "history_gw_points": 0,
+      "synchronized": false,
       "transfers": 1,
       "transfer_cost": 0,
-      "official_bench_points": 20,
-      "computed_bench_points": 20,
+      "official_bench_points": 0,
+      "computed_bench_points": 0,
       "active_chip": null,
       "captain": {
-        "name": "Palmer",
-        "live_points": 2,
+        "name": "Rogers",
+        "live_points": 5,
         "multiplier": 2
       },
       "vice_captain": {
-        "name": "Evanilson",
-        "live_points": 9
+        "name": "N.Jackson",
+        "live_points": 2
       },
       "starting_xi": [
         {
@@ -566,7 +566,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 8,
@@ -575,7 +575,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 229,
@@ -584,7 +584,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
           "id": 115,
@@ -593,29 +593,29 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
-          "id": 154,
-          "name": "Palmer",
+          "id": 15,
+          "name": "Ødegaard",
           "position": 5,
-          "multiplier": 2,
-          "captain": true,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 627,
-          "name": "Barcola",
-          "position": 6,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 5
+          "live_points": 0
         },
         {
           "id": 40,
           "name": "Rogers",
+          "position": 6,
+          "multiplier": 2,
+          "captain": true,
+          "vice_captain": false,
+          "live_points": 5
+        },
+        {
+          "id": 154,
+          "name": "Palmer",
           "position": 7,
           "multiplier": 1,
           "captain": false,
@@ -623,31 +623,31 @@
           "live_points": 2
         },
         {
-          "id": 15,
-          "name": "Ødegaard",
+          "id": 124,
+          "name": "Groß",
           "position": 8,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 11
+          "live_points": 0
+        },
+        {
+          "id": 627,
+          "name": "Barcola",
+          "position": 9,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
         },
         {
           "id": 79,
           "name": "Evanilson",
-          "position": 9,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": true,
-          "live_points": 9
-        },
-        {
-          "id": 26,
-          "name": "Havertz",
           "position": 10,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 6
         },
         {
           "id": 166,
@@ -655,8 +655,8 @@
           "position": 11,
           "multiplier": 1,
           "captain": false,
-          "vice_captain": false,
-          "live_points": 11
+          "vice_captain": true,
+          "live_points": 2
         }
       ],
       "bench": [
@@ -667,20 +667,20 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 0
         },
         {
-          "id": 124,
-          "name": "Groß",
+          "id": 26,
+          "name": "Havertz",
           "position": 13,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
+          "live_points": 0
         },
         {
-          "id": 391,
-          "name": "Gvardiol",
+          "id": 233,
+          "name": "Mykolenko",
           "position": 14,
           "multiplier": 0,
           "captain": false,
@@ -694,26 +694,26 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 7
+          "live_points": 0
         }
       ]
     },
     {
       "rank": 5,
-      "last_rank": 5,
-      "rank_change": 0,
-      "entry_id": 4233296,
-      "team_name": "Musti FC",
-      "manager_name": "Musti R",
-      "gw_points": 67,
-      "total_points": 634,
-      "overall_rank": 1356053,
-      "history_gw_points": 67,
-      "synchronized": true,
+      "last_rank": 6,
+      "rank_change": 1,
+      "entry_id": 1563124,
+      "team_name": "Gb26",
+      "manager_name": "Geir Bjørnsvik",
+      "gw_points": 23,
+      "total_points": 657,
+      "overall_rank": 1380139,
+      "history_gw_points": 0,
+      "synchronized": false,
       "transfers": 0,
       "transfer_cost": 0,
-      "official_bench_points": 13,
-      "computed_bench_points": 13,
+      "official_bench_points": 0,
+      "computed_bench_points": 4,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -721,8 +721,8 @@
         "multiplier": 2
       },
       "vice_captain": {
-        "name": "Barry",
-        "live_points": 16
+        "name": "Palmer",
+        "live_points": 2
       },
       "starting_xi": [
         {
@@ -730,184 +730,18 @@
           "name": "Raya",
           "position": 1,
           "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 449,
-          "name": "Hall",
-          "position": 2,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 4
-        },
-        {
-          "id": 115,
-          "name": "De Cuyper",
-          "position": 3,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 504,
-          "name": "Vuskovic",
-          "position": 4,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 12
-        },
-        {
-          "id": 427,
-          "name": "Mbeumo",
-          "position": 5,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 40,
-          "name": "Rogers",
-          "position": 6,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 124,
-          "name": "Groß",
-          "position": 7,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 10
-        },
-        {
-          "id": 68,
-          "name": "Tavernier",
-          "position": 8,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 3
-        },
-        {
-          "id": 464,
-          "name": "Wissa",
-          "position": 9,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 411,
-          "name": "Haaland",
-          "position": 10,
-          "multiplier": 2,
-          "captain": true,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 249,
-          "name": "Barry",
-          "position": 11,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": true,
-          "live_points": 16
-        }
-      ],
-      "bench": [
-        {
-          "id": 496,
-          "name": "Kinsky",
-          "position": 12,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 8,
-          "name": "Calafiori",
-          "position": 13,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 480,
-          "name": "Gibbs-White",
-          "position": 14,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 5
-        },
-        {
-          "id": 391,
-          "name": "Gvardiol",
-          "position": 15,
-          "multiplier": 0,
           "captain": false,
           "vice_captain": false,
           "live_points": 0
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "last_rank": 6,
-      "rank_change": 0,
-      "entry_id": 1563124,
-      "team_name": "Gb26",
-      "manager_name": "Geir Bjørnsvik",
-      "gw_points": 71,
-      "total_points": 634,
-      "overall_rank": 1360357,
-      "history_gw_points": 71,
-      "synchronized": true,
-      "transfers": 2,
-      "transfer_cost": 0,
-      "official_bench_points": 10,
-      "computed_bench_points": 10,
-      "active_chip": "3xc",
-      "captain": {
-        "name": "Calafiori",
-        "live_points": 6,
-        "multiplier": 3
-      },
-      "vice_captain": {
-        "name": "Evanilson",
-        "live_points": 9
-      },
-      "starting_xi": [
-        {
-          "id": 1,
-          "name": "Raya",
-          "position": 1,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
         },
         {
           "id": 8,
           "name": "Calafiori",
           "position": 2,
-          "multiplier": 3,
-          "captain": true,
+          "multiplier": 1,
+          "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 115,
@@ -916,7 +750,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 112,
@@ -925,7 +759,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 4
+          "live_points": 6
         },
         {
           "id": 15,
@@ -934,7 +768,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 11
+          "live_points": 0
         },
         {
           "id": 154,
@@ -942,7 +776,7 @@
           "position": 6,
           "multiplier": 1,
           "captain": false,
-          "vice_captain": false,
+          "vice_captain": true,
           "live_points": 2
         },
         {
@@ -952,7 +786,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 5
         },
         {
           "id": 124,
@@ -961,7 +795,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
+          "live_points": 0
         },
         {
           "id": 94,
@@ -970,7 +804,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 0
         },
         {
           "id": 79,
@@ -978,15 +812,15 @@
           "position": 10,
           "multiplier": 1,
           "captain": false,
-          "vice_captain": true,
-          "live_points": 9
+          "vice_captain": false,
+          "live_points": 6
         },
         {
           "id": 411,
           "name": "Haaland",
           "position": 11,
-          "multiplier": 1,
-          "captain": false,
+          "multiplier": 2,
+          "captain": true,
           "vice_captain": false,
           "live_points": 2
         }
@@ -999,7 +833,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 87,
@@ -1008,7 +842,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
           "id": 569,
@@ -1017,11 +851,177 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         },
         {
           "id": 173,
           "name": "Thomas",
+          "position": 15,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 3
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "last_rank": 5,
+      "rank_change": -1,
+      "entry_id": 4233296,
+      "team_name": "Musti FC",
+      "manager_name": "Musti R",
+      "gw_points": 11,
+      "total_points": 645,
+      "overall_rank": 1815096,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 3,
+      "transfer_cost": 0,
+      "official_bench_points": 0,
+      "computed_bench_points": 15,
+      "active_chip": null,
+      "captain": {
+        "name": "N.Jackson",
+        "live_points": 2,
+        "multiplier": 2
+      },
+      "vice_captain": {
+        "name": "Haaland",
+        "live_points": 2
+      },
+      "starting_xi": [
+        {
+          "id": 1,
+          "name": "Raya",
+          "position": 1,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 115,
+          "name": "De Cuyper",
+          "position": 2,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 504,
+          "name": "Vuskovic",
+          "position": 3,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 8,
+          "name": "Calafiori",
+          "position": 4,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 31,
+          "name": "Konsa",
+          "position": 5,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 40,
+          "name": "Rogers",
+          "position": 6,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 5
+        },
+        {
+          "id": 124,
+          "name": "Groß",
+          "position": 7,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 366,
+          "name": "Wirtz",
+          "position": 8,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 166,
+          "name": "N.Jackson",
+          "position": 9,
+          "multiplier": 2,
+          "captain": true,
+          "vice_captain": false,
+          "live_points": 2
+        },
+        {
+          "id": 411,
+          "name": "Haaland",
+          "position": 10,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": true,
+          "live_points": 2
+        },
+        {
+          "id": 249,
+          "name": "Barry",
+          "position": 11,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": 496,
+          "name": "Kinsky",
+          "position": 12,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 7
+        },
+        {
+          "id": 427,
+          "name": "Mbeumo",
+          "position": 13,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 68,
+          "name": "Tavernier",
+          "position": 14,
+          "multiplier": 0,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 8
+        },
+        {
+          "id": 449,
+          "name": "Hall",
           "position": 15,
           "multiplier": 0,
           "captain": false,
@@ -1037,15 +1037,15 @@
       "entry_id": 4003846,
       "team_name": "SNFC",
       "manager_name": "Said Noorullah",
-      "gw_points": 58,
-      "total_points": 617,
-      "overall_rank": 2021240,
-      "history_gw_points": 58,
-      "synchronized": true,
-      "transfers": 0,
+      "gw_points": 25,
+      "total_points": 642,
+      "overall_rank": 1926861,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 3,
       "transfer_cost": 0,
-      "official_bench_points": 10,
-      "computed_bench_points": 10,
+      "official_bench_points": 0,
+      "computed_bench_points": 3,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1053,18 +1053,18 @@
         "multiplier": 2
       },
       "vice_captain": {
-        "name": "Trafford",
-        "live_points": 10
+        "name": "Lammens",
+        "live_points": 0
       },
       "starting_xi": [
         {
-          "id": 385,
-          "name": "Trafford",
+          "id": 412,
+          "name": "Lammens",
           "position": 1,
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 10
+          "live_points": 0
         },
         {
           "id": 115,
@@ -1073,7 +1073,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 8,
@@ -1082,61 +1082,61 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
-          "id": 449,
-          "name": "Hall",
+          "id": 4,
+          "name": "Gabriel",
           "position": 4,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 4
+          "live_points": 0
         },
         {
-          "id": 390,
-          "name": "Rúben",
+          "id": 40,
+          "name": "Rogers",
           "position": 5,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 5
+        },
+        {
+          "id": 45,
+          "name": "McGinn",
+          "position": 6,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
           "live_points": 1
         },
         {
-          "id": 40,
-          "name": "Rogers",
-          "position": 6,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 453,
-          "name": "Barnes",
+          "id": 399,
+          "name": "Cherki",
           "position": 7,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 399,
-          "name": "Cherki",
-          "position": 8,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 9
+          "live_points": 1
         },
         {
           "id": 68,
           "name": "Tavernier",
+          "position": 8,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 8
+        },
+        {
+          "id": 124,
+          "name": "Groß",
           "position": 9,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 0
         },
         {
           "id": 411,
@@ -1148,33 +1148,33 @@
           "live_points": 2
         },
         {
-          "id": 166,
-          "name": "N.Jackson",
+          "id": 79,
+          "name": "Evanilson",
           "position": 11,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 11
+          "live_points": 6
         }
       ],
       "bench": [
         {
-          "id": 412,
-          "name": "Lammens",
+          "id": 385,
+          "name": "Trafford",
           "position": 12,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 2
         },
         {
-          "id": 124,
-          "name": "Groß",
+          "id": 449,
+          "name": "Hall",
           "position": 13,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
+          "live_points": 0
         },
         {
           "id": 664,
@@ -1192,26 +1192,192 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": -1
+          "live_points": 1
         }
       ]
     },
     {
       "rank": 8,
+      "last_rank": 9,
+      "rank_change": 1,
+      "entry_id": 2523237,
+      "team_name": "safi",
+      "manager_name": "Zahidullah Safi",
+      "gw_points": 40,
+      "total_points": 637,
+      "overall_rank": 2160473,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 1,
+      "transfer_cost": 0,
+      "official_bench_points": 0,
+      "computed_bench_points": 9,
+      "active_chip": "bboost",
+      "captain": {
+        "name": "Haaland",
+        "live_points": 2,
+        "multiplier": 2
+      },
+      "vice_captain": {
+        "name": "Evanilson",
+        "live_points": 6
+      },
+      "starting_xi": [
+        {
+          "id": 1,
+          "name": "Raya",
+          "position": 1,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 472,
+          "name": "Murillo",
+          "position": 2,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 60,
+          "name": "Hill",
+          "position": 3,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 14
+        },
+        {
+          "id": 115,
+          "name": "De Cuyper",
+          "position": 4,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 504,
+          "name": "Vuskovic",
+          "position": 5,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 8,
+          "name": "Calafiori",
+          "position": 6,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 40,
+          "name": "Rogers",
+          "position": 7,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 5
+        },
+        {
+          "id": 124,
+          "name": "Groß",
+          "position": 8,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 411,
+          "name": "Haaland",
+          "position": 9,
+          "multiplier": 2,
+          "captain": true,
+          "vice_captain": false,
+          "live_points": 2
+        },
+        {
+          "id": 79,
+          "name": "Evanilson",
+          "position": 10,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": true,
+          "live_points": 6
+        },
+        {
+          "id": 166,
+          "name": "N.Jackson",
+          "position": 11,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 2
+        }
+      ],
+      "bench": [
+        {
+          "id": 82,
+          "name": "Kelleher",
+          "position": 12,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 68,
+          "name": "Tavernier",
+          "position": 13,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 8
+        },
+        {
+          "id": 14,
+          "name": "Eze",
+          "position": 14,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 156,
+          "name": "Neto",
+          "position": 15,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 1
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "last_rank": 8,
-      "rank_change": 0,
+      "rank_change": -1,
       "entry_id": 3543962,
       "team_name": "Salah",
       "manager_name": "Salah Al Haddad",
-      "gw_points": 56,
-      "total_points": 602,
-      "overall_rank": 2715037,
-      "history_gw_points": 56,
-      "synchronized": true,
-      "transfers": 1,
+      "gw_points": 32,
+      "total_points": 634,
+      "overall_rank": 2254354,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 0,
       "transfer_cost": 0,
-      "official_bench_points": 1,
-      "computed_bench_points": 1,
+      "official_bench_points": 0,
+      "computed_bench_points": 7,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1220,7 +1386,7 @@
       },
       "vice_captain": {
         "name": "Rice",
-        "live_points": 3
+        "live_points": 0
       },
       "starting_xi": [
         {
@@ -1230,7 +1396,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 7
         },
         {
           "id": 4,
@@ -1239,7 +1405,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 0
         },
         {
           "id": 115,
@@ -1248,7 +1414,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 539,
@@ -1257,7 +1423,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 5
+          "live_points": 6
         },
         {
           "id": 124,
@@ -1266,7 +1432,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
+          "live_points": 0
         },
         {
           "id": 154,
@@ -1284,7 +1450,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 3
+          "live_points": 0
         },
         {
           "id": 40,
@@ -1293,7 +1459,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 5
         },
         {
           "id": 480,
@@ -1302,7 +1468,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 5
+          "live_points": 2
         },
         {
           "id": 79,
@@ -1311,7 +1477,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 9
+          "live_points": 6
         },
         {
           "id": 411,
@@ -1340,7 +1506,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 4
         },
         {
           "id": 173,
@@ -1349,7 +1515,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 3
         },
         {
           "id": 361,
@@ -1363,22 +1529,188 @@
       ]
     },
     {
-      "rank": 9,
-      "last_rank": 11,
+      "rank": 10,
+      "last_rank": 12,
       "rank_change": 2,
-      "entry_id": 2523237,
-      "team_name": "safi",
-      "manager_name": "Zahidullah Safi",
-      "gw_points": 69,
-      "total_points": 597,
-      "overall_rank": 2995436,
-      "history_gw_points": 69,
-      "synchronized": true,
-      "transfers": 1,
+      "entry_id": 5556464,
+      "team_name": "FC Mills Kaviar Mix",
+      "manager_name": "Coung Dinh",
+      "gw_points": 35,
+      "total_points": 619,
+      "overall_rank": 2948471,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 2,
       "transfer_cost": 0,
-      "official_bench_points": 9,
-      "computed_bench_points": 9,
-      "active_chip": null,
+      "official_bench_points": 0,
+      "computed_bench_points": 3,
+      "active_chip": "bboost",
+      "captain": {
+        "name": "Evanilson",
+        "live_points": 6,
+        "multiplier": 2
+      },
+      "vice_captain": {
+        "name": "N.Jackson",
+        "live_points": 2
+      },
+      "starting_xi": [
+        {
+          "id": 226,
+          "name": "Pickford",
+          "position": 1,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 4,
+          "name": "Gabriel",
+          "position": 2,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 31,
+          "name": "Konsa",
+          "position": 3,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 504,
+          "name": "Vuskovic",
+          "position": 4,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 40,
+          "name": "Rogers",
+          "position": 5,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 5
+        },
+        {
+          "id": 13,
+          "name": "Rice",
+          "position": 6,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 542,
+          "name": "E.Le Fée",
+          "position": 7,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 3
+        },
+        {
+          "id": 68,
+          "name": "Tavernier",
+          "position": 8,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 8
+        },
+        {
+          "id": 166,
+          "name": "N.Jackson",
+          "position": 9,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": true,
+          "live_points": 2
+        },
+        {
+          "id": 411,
+          "name": "Haaland",
+          "position": 10,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 2
+        },
+        {
+          "id": 79,
+          "name": "Evanilson",
+          "position": 11,
+          "multiplier": 2,
+          "captain": true,
+          "vice_captain": false,
+          "live_points": 6
+        }
+      ],
+      "bench": [
+        {
+          "id": 497,
+          "name": "Dubravka",
+          "position": 12,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 257,
+          "name": "Bassey",
+          "position": 13,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 1
+        },
+        {
+          "id": 45,
+          "name": "McGinn",
+          "position": 14,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 1
+        },
+        {
+          "id": 204,
+          "name": "Mitchell",
+          "position": 15,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 1
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "last_rank": 10,
+      "rank_change": -1,
+      "entry_id": 725543,
+      "team_name": "all stars 22",
+      "manager_name": "Atle Kirkevold",
+      "gw_points": 21,
+      "total_points": 613,
+      "overall_rank": 3217550,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 0,
+      "transfer_cost": 0,
+      "official_bench_points": 0,
+      "computed_bench_points": 1,
+      "active_chip": "wildcard",
       "captain": {
         "name": "Haaland",
         "live_points": 2,
@@ -1386,7 +1718,7 @@
       },
       "vice_captain": {
         "name": "Evanilson",
-        "live_points": 9
+        "live_points": 6
       },
       "starting_xi": [
         {
@@ -1396,70 +1728,70 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 472,
-          "name": "Murillo",
-          "position": 2,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 4
-        },
-        {
-          "id": 60,
-          "name": "Hill",
-          "position": 3,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 4
+          "live_points": 0
         },
         {
           "id": 115,
           "name": "De Cuyper",
-          "position": 4,
+          "position": 2,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 112,
+          "name": "Van Hecke",
+          "position": 3,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
           "live_points": 6
         },
         {
-          "id": 504,
-          "name": "Vuskovic",
-          "position": 5,
+          "id": 116,
+          "name": "Dunk",
+          "position": 4,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 12
+          "live_points": 0
         },
         {
-          "id": 40,
-          "name": "Rogers",
-          "position": 6,
+          "id": 387,
+          "name": "O'Reilly",
+          "position": 5,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
           "live_points": 2
         },
         {
-          "id": 124,
-          "name": "Groß",
+          "id": 15,
+          "name": "Ødegaard",
+          "position": 6,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 53,
+          "name": "Manzambi",
           "position": 7,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 10
+          "live_points": 1
         },
         {
-          "id": 14,
-          "name": "Eze",
+          "id": 124,
+          "name": "Groß",
           "position": 8,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 0
         },
         {
           "id": 411,
@@ -1477,7 +1809,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 9
+          "live_points": 6
         },
         {
           "id": 166,
@@ -1486,172 +1818,6 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 11
-        }
-      ],
-      "bench": [
-        {
-          "id": 82,
-          "name": "Kelleher",
-          "position": 12,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 616,
-          "name": "Bouaddi",
-          "position": 13,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 8,
-          "name": "Calafiori",
-          "position": 14,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 156,
-          "name": "Neto",
-          "position": 15,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 1
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "last_rank": 10,
-      "rank_change": 0,
-      "entry_id": 725543,
-      "team_name": "all stars 22",
-      "manager_name": "Atle Kirkevold",
-      "gw_points": 53,
-      "total_points": 592,
-      "overall_rank": 3227307,
-      "history_gw_points": 53,
-      "synchronized": true,
-      "transfers": 2,
-      "transfer_cost": 0,
-      "official_bench_points": 9,
-      "computed_bench_points": 9,
-      "active_chip": null,
-      "captain": {
-        "name": "Haaland",
-        "live_points": 2,
-        "multiplier": 2
-      },
-      "vice_captain": {
-        "name": "Wissa",
-        "live_points": 2
-      },
-      "starting_xi": [
-        {
-          "id": 1,
-          "name": "Raya",
-          "position": 1,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 115,
-          "name": "De Cuyper",
-          "position": 2,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 4,
-          "name": "Gabriel",
-          "position": 3,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 8
-        },
-        {
-          "id": 449,
-          "name": "Hall",
-          "position": 4,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 4
-        },
-        {
-          "id": 116,
-          "name": "Dunk",
-          "position": 5,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 5
-        },
-        {
-          "id": 15,
-          "name": "Ødegaard",
-          "position": 6,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 11
-        },
-        {
-          "id": 155,
-          "name": "Enzo",
-          "position": 7,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 481,
-          "name": "Anderson",
-          "position": 8,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 129,
-          "name": "Ayari",
-          "position": 9,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 3
-        },
-        {
-          "id": 411,
-          "name": "Haaland",
-          "position": 10,
-          "multiplier": 2,
-          "captain": true,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 464,
-          "name": "Wissa",
-          "position": 11,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": true,
           "live_points": 2
         }
       ],
@@ -1663,53 +1829,53 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 0
         },
         {
-          "id": 346,
-          "name": "Calvert-Lewin",
+          "id": 4,
+          "name": "Gabriel",
           "position": 13,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
-          "id": 469,
-          "name": "N.Williams",
+          "id": 212,
+          "name": "Hughes",
           "position": 14,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
-          "id": 98,
-          "name": "Janelt",
+          "id": 45,
+          "name": "McGinn",
           "position": 15,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 1
         }
       ]
     },
     {
-      "rank": 11,
-      "last_rank": 9,
-      "rank_change": -2,
+      "rank": 12,
+      "last_rank": 11,
+      "rank_change": -1,
       "entry_id": 5512258,
       "team_name": "Chili con Cairney",
       "manager_name": "William Lightfoot",
-      "gw_points": 46,
-      "total_points": 590,
-      "overall_rank": 3312235,
-      "history_gw_points": 46,
-      "synchronized": true,
-      "transfers": 0,
+      "gw_points": 11,
+      "total_points": 601,
+      "overall_rank": 3800354,
+      "history_gw_points": 0,
+      "synchronized": false,
+      "transfers": 3,
       "transfer_cost": 0,
       "official_bench_points": 0,
-      "computed_bench_points": 0,
+      "computed_bench_points": 2,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -1718,7 +1884,7 @@
       },
       "vice_captain": {
         "name": "B.Fernandes",
-        "live_points": 10
+        "live_points": 0
       },
       "starting_xi": [
         {
@@ -1728,7 +1894,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 8,
@@ -1737,25 +1903,25 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
-        },
-        {
-          "id": 115,
-          "name": "De Cuyper",
-          "position": 3,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 6
+          "live_points": 0
         },
         {
           "id": 356,
           "name": "Virgil",
+          "position": 3,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 115,
+          "name": "De Cuyper",
           "position": 4,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 4
+          "live_points": 0
         },
         {
           "id": 40,
@@ -1764,59 +1930,59 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 5
         },
         {
-          "id": 94,
-          "name": "Schade",
+          "id": 124,
+          "name": "Groß",
           "position": 6,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
-        },
-        {
-          "id": 268,
-          "name": "King",
-          "position": 7,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 3
+          "live_points": 0
         },
         {
           "id": 426,
           "name": "B.Fernandes",
-          "position": 8,
+          "position": 7,
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 10
+          "live_points": 0
         },
         {
-          "id": 290,
-          "name": "Slater",
+          "id": 94,
+          "name": "Schade",
+          "position": 8,
+          "multiplier": 1,
+          "captain": false,
+          "vice_captain": false,
+          "live_points": 0
+        },
+        {
+          "id": 249,
+          "name": "Barry",
           "position": 9,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 569,
-          "name": "Gonzalo",
-          "position": 10,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
           "id": 411,
           "name": "Haaland",
-          "position": 11,
+          "position": 10,
           "multiplier": 2,
           "captain": true,
+          "vice_captain": false,
+          "live_points": 2
+        },
+        {
+          "id": 166,
+          "name": "N.Jackson",
+          "position": 11,
+          "multiplier": 1,
+          "captain": false,
           "vice_captain": false,
           "live_points": 2
         }
@@ -1832,8 +1998,8 @@
           "live_points": 0
         },
         {
-          "id": 165,
-          "name": "João Pedro",
+          "id": 290,
+          "name": "Slater",
           "position": 13,
           "multiplier": 0,
           "captain": false,
@@ -1847,177 +2013,11 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": -1
+          "live_points": 1
         },
         {
           "id": 175,
           "name": "van Ewijk",
-          "position": 15,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 1
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "last_rank": 12,
-      "rank_change": 0,
-      "entry_id": 5556464,
-      "team_name": "FC Mills Kaviar Mix",
-      "manager_name": "Coung Dinh",
-      "gw_points": 58,
-      "total_points": 584,
-      "overall_rank": 3645364,
-      "history_gw_points": 58,
-      "synchronized": true,
-      "transfers": 0,
-      "transfer_cost": 0,
-      "official_bench_points": 12,
-      "computed_bench_points": 12,
-      "active_chip": null,
-      "captain": {
-        "name": "Haaland",
-        "live_points": 2,
-        "multiplier": 2
-      },
-      "vice_captain": {
-        "name": "Rice",
-        "live_points": 3
-      },
-      "starting_xi": [
-        {
-          "id": 226,
-          "name": "Pickford",
-          "position": 1,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 3
-        },
-        {
-          "id": 4,
-          "name": "Gabriel",
-          "position": 2,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 8
-        },
-        {
-          "id": 257,
-          "name": "Bassey",
-          "position": 3,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 31,
-          "name": "Konsa",
-          "position": 4,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 8
-        },
-        {
-          "id": 40,
-          "name": "Rogers",
-          "position": 5,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 13,
-          "name": "Rice",
-          "position": 6,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": true,
-          "live_points": 3
-        },
-        {
-          "id": 428,
-          "name": "Cunha",
-          "position": 7,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 5
-        },
-        {
-          "id": 68,
-          "name": "Tavernier",
-          "position": 8,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 3
-        },
-        {
-          "id": 411,
-          "name": "Haaland",
-          "position": 9,
-          "multiplier": 2,
-          "captain": true,
-          "vice_captain": false,
-          "live_points": 2
-        },
-        {
-          "id": 79,
-          "name": "Evanilson",
-          "position": 10,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 9
-        },
-        {
-          "id": 166,
-          "name": "N.Jackson",
-          "position": 11,
-          "multiplier": 1,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 11
-        }
-      ],
-      "bench": [
-        {
-          "id": 497,
-          "name": "Dubravka",
-          "position": 12,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 32,
-          "name": "Cash",
-          "position": 13,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 0
-        },
-        {
-          "id": 542,
-          "name": "E.Le Fée",
-          "position": 14,
-          "multiplier": 0,
-          "captain": false,
-          "vice_captain": false,
-          "live_points": 11
-        },
-        {
-          "id": 204,
-          "name": "Mitchell",
           "position": 15,
           "multiplier": 0,
           "captain": false,
@@ -2033,14 +2033,14 @@
       "entry_id": 3652830,
       "team_name": "Team KiwiXL",
       "manager_name": "Morten Fevang",
-      "gw_points": 38,
-      "total_points": 468,
-      "overall_rank": 8734771,
-      "history_gw_points": 38,
-      "synchronized": true,
+      "gw_points": 16,
+      "total_points": 484,
+      "overall_rank": 8680894,
+      "history_gw_points": 0,
+      "synchronized": false,
       "transfers": 0,
       "transfer_cost": 0,
-      "official_bench_points": 3,
+      "official_bench_points": 0,
       "computed_bench_points": 3,
       "active_chip": null,
       "captain": {
@@ -2050,7 +2050,7 @@
       },
       "vice_captain": {
         "name": "Ødegaard",
-        "live_points": 11
+        "live_points": 0
       },
       "starting_xi": [
         {
@@ -2060,16 +2060,16 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 3
         },
         {
-          "id": 202,
-          "name": "Richards",
+          "id": 112,
+          "name": "Van Hecke",
           "position": 2,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 6
         },
         {
           "id": 201,
@@ -2078,7 +2078,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
           "id": 420,
@@ -2087,16 +2087,16 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 0
         },
         {
-          "id": 112,
-          "name": "Van Hecke",
+          "id": 361,
+          "name": "Lucky",
           "position": 5,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 4
+          "live_points": 0
         },
         {
           "id": 67,
@@ -2105,7 +2105,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 2
+          "live_points": 3
         },
         {
           "id": 95,
@@ -2114,7 +2114,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 0
         },
         {
           "id": 15,
@@ -2123,7 +2123,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": true,
-          "live_points": 11
+          "live_points": 0
         },
         {
           "id": 14,
@@ -2132,7 +2132,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 1
+          "live_points": 0
         },
         {
           "id": 411,
@@ -2150,7 +2150,7 @@
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 8
+          "live_points": 0
         }
       ],
       "bench": [
@@ -2161,7 +2161,7 @@
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 0
         },
         {
           "id": 397,
@@ -2173,13 +2173,13 @@
           "live_points": 0
         },
         {
-          "id": 361,
-          "name": "Lucky",
+          "id": 202,
+          "name": "Richards",
           "position": 14,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 3
         },
         {
           "id": 223,
