@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:24:27.436Z",
+  "generated_at": "2026-11-24T10:14:03.695Z",
   "league": {
     "id": 202061,
     "name": "Kiwi Hjemseng",
@@ -1205,7 +1205,7 @@
       "manager_name": "Said Noorullah",
       "gw_points": 34,
       "total_points": 651,
-      "overall_rank": 2089487,
+      "overall_rank": 2089485,
       "history_gw_points": 34,
       "synchronized": true,
       "transfers": 3,
@@ -1371,7 +1371,7 @@
       "manager_name": "Salah Al Haddad",
       "gw_points": 41,
       "total_points": 643,
-      "overall_rank": 2440024,
+      "overall_rank": 2440022,
       "history_gw_points": 41,
       "synchronized": true,
       "transfers": 0,
@@ -1537,7 +1537,7 @@
       "manager_name": "Atle Kirkevold",
       "gw_points": 33,
       "total_points": 625,
-      "overall_rank": 3310065,
+      "overall_rank": 3310059,
       "history_gw_points": 33,
       "synchronized": true,
       "transfers": 0,
@@ -1703,7 +1703,7 @@
       "manager_name": "Coung Dinh",
       "gw_points": 41,
       "total_points": 625,
-      "overall_rank": 3326304,
+      "overall_rank": 3326297,
       "history_gw_points": 41,
       "synchronized": true,
       "transfers": 2,
@@ -1869,7 +1869,7 @@
       "manager_name": "William Lightfoot",
       "gw_points": 29,
       "total_points": 619,
-      "overall_rank": 3605626,
+      "overall_rank": 3605617,
       "history_gw_points": 29,
       "synchronized": true,
       "transfers": 3,
@@ -2035,13 +2035,13 @@
       "manager_name": "Morten Fevang",
       "gw_points": 35,
       "total_points": 503,
-      "overall_rank": 8605928,
+      "overall_rank": 8605899,
       "history_gw_points": 35,
       "synchronized": true,
       "transfers": 0,
       "transfer_cost": 0,
       "official_bench_points": 4,
-      "computed_bench_points": 4,
+      "computed_bench_points": 1,
       "active_chip": null,
       "captain": {
         "name": "Haaland",
@@ -2063,13 +2063,13 @@
           "live_points": 3
         },
         {
-          "id": 112,
-          "name": "Van Hecke",
+          "id": 202,
+          "name": "Richards",
           "position": 2,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 6
+          "live_points": 3
         },
         {
           "id": 201,
@@ -2090,13 +2090,13 @@
           "live_points": -4
         },
         {
-          "id": 361,
-          "name": "Lucky",
+          "id": 112,
+          "name": "Van Hecke",
           "position": 5,
           "multiplier": 1,
           "captain": false,
           "vice_captain": false,
-          "live_points": 0
+          "live_points": 6
         },
         {
           "id": 67,
@@ -2173,13 +2173,13 @@
           "live_points": 0
         },
         {
-          "id": 202,
-          "name": "Richards",
+          "id": 361,
+          "name": "Lucky",
           "position": 14,
           "multiplier": 0,
           "captain": false,
           "vice_captain": false,
-          "live_points": 3
+          "live_points": 0
         },
         {
           "id": 223,
